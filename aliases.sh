@@ -1,0 +1,1 @@
+alias railss="rails s"

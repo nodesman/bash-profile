@@ -1,2 +1,3 @@
-source lib/constants.sh
-source lib/detect_platform.sh
+source ~/.profile/lib/constants.sh
+source ~/.profile/aliases.sh
+source ~/.profile/rails/shortcuts.sh
