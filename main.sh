@@ -5,3 +5,4 @@ source ~/.profile/git/shortcuts.sh
 source ~/.profile/configs/vlc.sh
 source ~/.profile/grep/main.sh
 source ~/.profile/mac/main.sh
+source ~/.profile/stuff/main.sh
